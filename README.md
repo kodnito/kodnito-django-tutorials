@@ -1,4 +1,4 @@
-# Codebase for the Django tutorials on my [blog](https://kodnito.com/)
+# Codebase for the Django tutorials on [Kodnito blog](https://kodnito.com/)
 
 ## HOWTO's
 * [UPLOAD IMAGES TO CLOUDINARY FROM DJANGO APPLICATION](https://www.kodnito.com/posts/upload-images-cloudinary-django-application/) ([Source](https://github.com/kodnito/kodnito-django-tutorials/tree/master/upload-to-cloudinary))
